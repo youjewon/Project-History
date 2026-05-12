@@ -22,7 +22,3 @@
 * **Language/Framework:** (여기에 사용하신 언어나 프레임워크를 적어주세요)
 * **Environment:** (IDE나 OS 등)
 
----
-
-## 🚀 Quick Start
-상세한 설치 및 실행 방법은 Wiki의 **[Setup Guide](https://github.com/youjewon/Project-History/wiki)** 페이지를 참고해 주세요.
